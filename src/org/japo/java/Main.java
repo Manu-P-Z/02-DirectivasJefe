@@ -29,5 +29,5 @@ public class Main {
         System.out.println("Artículo 2. El jefe SIEMPRE tiene la razón.");
         System.out.println("Artículo 3. En caso de duda se aplicará el artículo 2. ");
     }
-    
+
 }
